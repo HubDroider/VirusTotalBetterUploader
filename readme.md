@@ -13,5 +13,6 @@ Ever Wanted To Scan An Entire Folder Or Multiple Files In VirusTotal ? Well ... 
 
 -Create A VirusTotal Account , Click Your Account pfp > API Key > Copy It & Replace Your_VirusTotal_API_Key_Here With Your API Key
 
+(If Sometimes VirusTotal Shows An Error , Just Reload The Page)
 
 If You Find A Bug , Report It In Issues , Thanks !
