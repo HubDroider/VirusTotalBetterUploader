@@ -1,7 +1,8 @@
 # VirusTotalBetterUploader
 Ever Wanted To Scan An Entire Folder Or Multiple Files In VirusTotal ? Well ... Now You Can With This Python Script !
 
-# How To Use (IMPORTANT) : (If You Find a Grammar Mistake Please Report It In Issues)
+# How To Use (IMPORTANT) :
+(If You Find a Grammar Mistake In The Readme Please Report It In Issues)
 
 -Install Python Last Version (https://www.python.org/downloads/)
 
