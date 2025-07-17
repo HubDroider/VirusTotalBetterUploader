@@ -10,7 +10,7 @@ Ever Wanted To Scan An Entire Folder Or Multiple Files In VirusTotal ? Well ... 
 
 -Open it with IDLE (Python Text Editor)
 
--Change Line 26 , Put Your VirusTotal API Key , Save It
+-Change Line 30 , Put Your VirusTotal API Key , Save It
 
 -Create A VirusTotal Account , Click Your Account pfp > API Key > Copy It & Replace Your_VirusTotal_API_Key_Here With Your API Key
 
